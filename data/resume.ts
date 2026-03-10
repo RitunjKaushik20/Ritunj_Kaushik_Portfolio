@@ -86,8 +86,8 @@ export const resumeData = {
     {
       title: "Vendor Management & Finance SaaS Platform",
       links: {
-        live: "#",
-        github: "#"
+        live: "https://vendo-care.vercel.app/",
+        github: "https://github.com/RitunjKaushik20/VendoCare"
       },
       bullets: [
         "Architected multi-tenant SaaS with RBAC supporting Admin, Vendor, Finance roles for contract lifecycle, invoice tracking with data isolation",
@@ -100,8 +100,8 @@ export const resumeData = {
     {
       title: "Real Estate Property Management Platform",
       links: {
-        live: "#",
-        github: "#"
+        live: "https://property-management-backend-six.vercel.app/",
+        github: "https://github.com/RitunjKaushik20/property_management-backend"
       },
       bullets: [
         "Developed multi-tenant property system with RBAC, JWT auth, property listings, advanced filters, CRM workflows, tenant management",
@@ -113,8 +113,8 @@ export const resumeData = {
     {
       title: "AI-Powered Meeting Action Items Tracker",
       links: {
-        live: "#",
-        github: "#"
+        live: "https://meeting-action-item-tracker.vercel.app/",
+        github: "https://github.com/RitunjKaushik20/ai-meeting-tracker"
       },
       bullets: [
         "Developed SaaS application using OpenAI GPT API for NLP-based extraction of action items, task owners, due dates, priorities from transcripts",
